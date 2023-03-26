@@ -15,7 +15,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
-        <h2>Gio</h2>
+        <h2> the issue is over now</h2>
       </main>
     </>
   );
